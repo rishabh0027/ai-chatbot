@@ -144,5 +144,5 @@ MIT License — free to use and modify.
 
 ## 🙋 Author
 
-Built by **[Your Name]** — B.Tech CS (AI & Data Science), 4th Year  
-📧 your.email@example.com | 🔗 [LinkedIn](https://linkedin.com)
+Built by Rishabh Singh — B.Tech CS (AI & Data Science), 4th Year  
+📧 rishabhs0027@gmail.com | 🔗 https://www.linkedin.com/in/rishabh-singh -a98796276
