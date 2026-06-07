@@ -1,0 +1,9 @@
+2026-06-07 22:59:45 | INFO     | core.llm_client | LLMClient initialised (model=claude-sonnet-4-20250514)
+2026-06-07 22:59:45 | INFO     | features.persona | PersonaManager initialised with persona='assistant'
+2026-06-07 22:59:45 | INFO     | core.conversation | Conversation session started
+2026-06-07 23:00:05 | INFO     | httpx | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-06-07 23:00:05 | ERROR    | core.llm_client | Invalid API key. Check your ANTHROPIC_API_KEY in .env
+2026-06-07 23:00:05 | WARNING  | core.conversation | Sentiment analysis failed: Invalid API key. Check your ANTHROPIC_API_KEY in .env
+2026-06-07 23:00:05 | INFO     | httpx | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-06-07 23:00:05 | ERROR    | core.llm_client | Invalid API key. Check your ANTHROPIC_API_KEY in .env
+2026-06-07 23:00:05 | ERROR    | cli.interface | Runtime error in main loop: Invalid API key. Check your ANTHROPIC_API_KEY in .env
